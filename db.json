@@ -1,0 +1,45 @@
+{
+  "rooms": [
+    {
+      "name": "1",
+      "type": "Muolaja Xonasi",
+      "floor": "1",
+      "depart": "1",
+      "status": "Bo`sh",
+      "id": 1
+    },
+    {
+      "name": "2",
+      "type": "Muolaja Xonasi",
+      "floor": "1",
+      "depart": "2",
+      "status": "Bo`sh",
+      "id": 2
+    },
+    {
+      "name": "3",
+      "type": "Muolaja Xonasi",
+      "floor": "1",
+      "depart": "3",
+      "status": "Band",
+      "id": 3
+    }
+  ],
+  "departs": [
+    {
+      "name": "Psixoteropevt",
+      "status": "Ish xolatida",
+      "id": 1
+    },
+    {
+      "name": "Psixiator",
+      "status": "Ish xolatida",
+      "id": 2
+    },
+    {
+      "name": "Travmatalogiya",
+      "status": "Ish xolatida",
+      "id": 3
+    }
+  ]
+}
